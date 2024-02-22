@@ -1,4 +1,4 @@
 # uzi-demo-
 This is my first project 
 <br>
-Author - Uzair 
+Author - Uzair (Apna College)
